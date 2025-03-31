@@ -1,7 +1,7 @@
 ## About Me
 🔬: Physics student at Trinity College Dublin 
 
-📊: Learning the basics of Git for version control, public portfolio and collaboration
+📊: Learning the basics of Git
 
 🧠: Interested in projects related to astrophysics, Earth sciences, and modelling real-world systems
 
